@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/Jalalabbasi0387/myproject/_apis/build/status%2Fjalalhabbasi.pipeline-java?branchName=main)](https://dev.azure.com/Jalalabbasi0387/myproject/_build/latest?definitionId=7&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
